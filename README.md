@@ -22,8 +22,8 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a>
   ----
   ### Github stats
-  [![cheecrma's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheecrma)](https://github.com/cheecrma/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheecrma&layout=compact&hide_border=true)](https://github.com/cheecrma/github-readme-stats)
+  [![cheecrma's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheecrma)](https://github.com/cheecrma)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheecrma&layout=compact&hide_border=true)](https://github.com/cheecrma)
   ----
   ### Baekjoon solved
   [![Solved.ac
