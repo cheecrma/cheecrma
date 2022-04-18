@@ -2,7 +2,8 @@
 
 <div align="center">
   
-  ### Education
+  <h3 align="center"> 📚 Education 📚</h3>
+  
   [2022.01 ~ ]<br>
   SSAFY 7th
   <br><br>
@@ -10,11 +11,13 @@
   CIVIL AND ENVIRONMENTAL ENGINEERING @ KONKUK UNIV
   
   ----
-  ### Interest
+  <h3 align="center"> 🛸 Interest 🛸</h3>
+  
     ???!!!
   
 
-  ### Tech Stack and Tools
+
+  <h3 align="center"> 🛠 Tech Stack and Tools 🛠</h3>
 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -31,15 +34,18 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/></a>
   ----
-  ### Github stats
+  <h3 align="center"> 🔥 Github stats 🔥</h3>
+  
   [![cheecrma's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheecrma)](https://github.com/cheecrma)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheecrma&layout=compact&hide_border=true)](https://github.com/cheecrma)
   ----
-  ### Baekjoon solved
+  <h3 align="center"> 📝 Baekjoon solved 📝</h3>
+  
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cheecrma)](https://solved.ac/cheecrma)
   ----
-  ### Story
+  
+  <h3 align="center"> 🌏 Story 🌏</h3>
   
     내가 젊고 자유로워서 상상력의 한계가 없을 때
     나는 세상을 변화시키겠다는 꿈을 가졌었다.
