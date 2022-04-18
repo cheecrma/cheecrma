@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/></a>
-  
   ----
   ### Github stats
   [![cheecrma's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheecrma)](https://github.com/cheecrma)
@@ -39,7 +38,7 @@
   ### Baekjoon solved
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cheecrma)](https://solved.ac/cheecrma)
-  
+  ----
   ### Story
   
     내가 젊고 자유로워서 상상력의 한계가 없을 때
